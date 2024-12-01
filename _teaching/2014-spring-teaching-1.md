@@ -4,7 +4,7 @@ layout: single
 permalink: /teaching/
 venue: "Washington University in St. Louis"
 location: "St. Louis, MO, USA"
-date: 2024
+date: 2021-08-30 - 2024-11-30
 ---
 
 ## Assistant Instructor
