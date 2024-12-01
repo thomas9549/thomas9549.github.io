@@ -1,10 +1,7 @@
 ---
 title: "Teaching Experience"
-collection: teaching
-type: "Undergraduate Courses"
-venue: "Washington University in St. Louis, Department of Statistics"
-date: 2024-11-30
-location: "St. Louis, MO, USA"
+layout: single
+permalink: /teaching/
 ---
 
 ## Assistant Instructor
