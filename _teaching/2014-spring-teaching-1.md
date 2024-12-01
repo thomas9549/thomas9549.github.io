@@ -1,6 +1,7 @@
 ---
 title: "Teaching Experience"
 layout: single
+type: Undergraduate and Graduate-level Courses
 permalink: /teaching/
 venue: "Washington University in St. Louis"
 location: "St. Louis, MO, USA"
