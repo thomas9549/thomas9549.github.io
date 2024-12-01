@@ -2,9 +2,8 @@
 title: "Teaching Experience"
 layout: single
 permalink: /teaching/
-venue: 
-date: 
-location: 
+venue: "Washington University in St. Louis"
+location: "St. Louis, MO, USA"
 ---
 
 ## Assistant Instructor
