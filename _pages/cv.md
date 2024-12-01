@@ -20,7 +20,17 @@ Honors and Awards
 * **Summer Undergraduate Research Award**, Washington University (2024)  
 * **Dean’s List**, Washington University (All semesters except Fall 2023)  
 * **Summa Cum Laude Candidate**, Washington University (2025)  
-* **Highest Distinction in Mathematics and Statistics (on track)**, Department of Statistics and Data Science (2025)  
+* **Highest Distinction in Mathematics and Statistics (on track)**, Department of Statistics and Data Science (2025)
+
+Publications
+======
+* (In Prep) Li, T. *"Dynamic Lambda Estimation for Efficient Market Making in High-Frequency Trading."*  
+
+Presentations
+======
+* **Oral Presentation**: "Dynamic Lambda Estimation for Efficient Market Making in High-Frequency Trading," Midstates Consortium, Nov 2024  
+* **Poster Presentation**: "Dynamic Lambda Estimation for Efficient Market Making in High-Frequency Trading," Undergraduate Research Symposium, Oct 2024  
+
 
 Research Experience
 ======
@@ -73,19 +83,9 @@ Technical Skills
 * **Mathematical Analysis**: Real analysis, measure theory, stochastic calculus, convex optimization  
 * **Financial Engineering**: Derivative pricing, portfolio optimization, Bellman equation applications  
 
-Publications
-======
-* (In Prep) Li, T. *"Dynamic Lambda Estimation for Efficient Market Making in High-Frequency Trading."*  
-
-Presentations
-======
-* **Oral Presentation**: "Dynamic Lambda Estimation for Efficient Market Making in High-Frequency Trading," Midstates Consortium, Nov 2024  
-* **Poster Presentation**: "Dynamic Lambda Estimation for Efficient Market Making in High-Frequency Trading," Undergraduate Research Symposium, Oct 2024  
-
 Service and Leadership
 ======
 * **Mentor**, High School Math Olympiad Training Program  
-* **Member**, Washington University Undergraduate Math Society  
 * **Participant**, Chicago Quantitative Alliance Investment Challenge (2024–2025)  
 * **Acapella Member**, Washington University Ghostlights (2021–2025)  
-======
+
