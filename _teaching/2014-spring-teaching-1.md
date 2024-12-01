@@ -2,6 +2,9 @@
 title: "Teaching Experience"
 layout: single
 permalink: /teaching/
+venue: 
+date: 
+location: 
 ---
 
 ## Assistant Instructor
